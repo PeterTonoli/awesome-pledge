@@ -6,8 +6,9 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [Programming Libraries](#libraries)
 
 ## Documentation
- - http://man.openbsd.org/OpenBSD-current/man2/pledge.2 OpenBSD pledge(2) manpage
- - http://www.openbsd.org/papers/hackfest2015-pledge/index.html Theo de Raadt's slides introducing pledge(2) to the world.
+ - [OpenBSD pledge(2) manpage](http://man.openbsd.org/OpenBSD-current/man2/pledge.2)
+ - [pledge() - a new mitigation mechanism](http://www.openbsd.org/papers/hackfest2015-pledge/mgp00001.html): slides from Theo de Raadt's presentation in Hackfest 2015 introducing pledge(2)
+   - [Pledge: A new security technology in OpenBSD](https://www.youtube.com/watch?v=F_7S1eqKsFk): video of the presentation
 
 ## Libraries
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
