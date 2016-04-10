@@ -6,8 +6,8 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources ot
 - [Programming Libraries](#libraries)
 
 ## Documentation
- - (http://man.openbsd.org/OpenBSD-current/man2/pledge.2) OpenBSD pledge(2) manpage
- - (http://www.openbsd.org/papers/hackfest2015-pledge/index.html) Theo de Raadt's slides introducing pledge(2) to the world.
+ - http://man.openbsd.org/OpenBSD-current/man2/pledge.2 OpenBSD pledge(2) manpage
+ - http://www.openbsd.org/papers/hackfest2015-pledge/index.html Theo de Raadt's slides introducing pledge(2) to the world.
 
 ## Libraries
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
