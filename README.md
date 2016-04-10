@@ -1,5 +1,5 @@
 # awesome-pledge [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources other awesome things.
+A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources and other awesome things.
 
 ## Table of Contents
 - [Documentation](#documentation)
@@ -12,10 +12,12 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources ot
 ## Libraries
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
+- [hs-pledge](https://github.com/oherrala/hs-pledge) Haskell
 - [Openbsduser-haskell](http://openbsd-archive.7691.n7.nabble.com/pledge-2-binding-for-Haskell-td287889.html) Haskell
 - [node-pledge](https://github.com/qbit/node-pledge) Javascript
 - [lua-openbsd](https://github.com/n0la/lua-openbsd) Lua - Lua library that binds to OpenBSD specific functions
 - [OpenBSD-Pledge](https://github.com/afresh1/OpenBSD-Pledge)(http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/gnu/usr.bin/perl/cpan/OpenBSD-Pledge/) Perl
+- [Unix-Pledge](https://github.com/rfarr/Unix-Pledge) Perl
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
 - [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust
 - [pledge.cs](https://github.com/NattyNarwhal/pledge.cs) .Net
