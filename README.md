@@ -13,7 +13,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources ot
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
 - [Openbsduser-haskell](http://openbsd-archive.7691.n7.nabble.com/pledge-2-binding-for-Haskell-td287889.html) Haskell
-- [node-pledge](https://github.com/germanodlf/bacula-zabbix) Javascript
+- [node-pledge](https://github.com/qbit/node-pledge) Javascript
 - [lua-openbsd](https://github.com/n0la/lua-openbsd) Lua - Lua library that binds to OpenBSD specific functions
 - [OpenBSD-Pledge](https://github.com/afresh1/OpenBSD-Pledge)(http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/gnu/usr.bin/perl/cpan/OpenBSD-Pledge/) Perl
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
