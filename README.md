@@ -21,6 +21,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [Unix-Pledge](https://github.com/rfarr/Unix-Pledge) Perl
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
 - [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust
+- [clicken-pledge](http://wiki.call-cc.org/eggref/4/pledge) Scheme *Chicken Scheme*
 - [pledge.cs](https://github.com/NattyNarwhal/pledge.cs) .Net
 
 ## Credits
