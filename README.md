@@ -11,6 +11,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
    - [Pledge: A new security technology in OpenBSD](https://www.youtube.com/watch?v=F_7S1eqKsFk): video of the presentation
 
 ## Libraries
+- [autopledge-insert](https://github.com/baconator/autopledge-insert) C *Automatically inserts pledge(2) calls into C/C++ code*
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
 - [hs-pledge](https://github.com/oherrala/hs-pledge) Haskell
