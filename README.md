@@ -16,14 +16,18 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
 - [hs-pledge](https://github.com/oherrala/hs-pledge) Haskell
 - [Openbsduser-haskell](http://openbsd-archive.7691.n7.nabble.com/pledge-2-binding-for-Haskell-td287889.html) Haskell
+- [pledge](https://github.com/Hashwords/pledge) Java
 - [node-pledge](https://github.com/qbit/node-pledge) Javascript
 - [lua-openbsd](https://github.com/n0la/lua-openbsd) Lua - Lua library that binds to OpenBSD specific functions
 - [pledge.nim](https://github.com/euantorano/pledge.nim) Nim
 - [OpenBSD-Pledge](https://github.com/afresh1/OpenBSD-Pledge)(http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/gnu/usr.bin/perl/cpan/OpenBSD-Pledge/) Perl
 - [Unix-Pledge](https://github.com/rfarr/Unix-Pledge) Perl
+- [php-pledge](https://github.com/tvlooy/php-pledge) PHP 7.x+
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
+- [openbsd-pledge](https://github.com/Robiathin/openbsd_pledge) Ruby
 - [ruby-pledge](https://github.com/jeremyevans/ruby-pledge) Ruby
-- [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust
+- [pledge-rs](https://github.com/i80and/pledge-rs) Rust
+- [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust (pastebin code)
 - [clicken-pledge](http://wiki.call-cc.org/eggref/4/pledge) Scheme *Chicken Scheme*
 - [pledge.cs](https://github.com/NattyNarwhal/pledge.cs) .Net
 
