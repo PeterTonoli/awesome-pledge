@@ -27,6 +27,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [openbsd-pledge](https://github.com/Robiathin/openbsd_pledge) Ruby
 - [ruby-pledge](https://github.com/jeremyevans/ruby-pledge) Ruby
 - [pledge-rs](https://github.com/i80and/pledge-rs) Rust
+- [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) A crossplatform sandboxing library for Rust
 - [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust (pastebin code)
 - [clicken-pledge](http://wiki.call-cc.org/eggref/4/pledge) Scheme *Chicken Scheme*
 - [pledge.cs](https://github.com/NattyNarwhal/pledge.cs) .Net
