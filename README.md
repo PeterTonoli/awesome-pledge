@@ -12,7 +12,8 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
  - [why pledge(2) - or, how I learned to love web application sandboxing](http://www.learnbchs.org/pledge.html
 
 ## Libraries
-- [autopledge-insert](https://github.com/baconator/autopledge-insert) C *Automatically inserts pledge(2) calls into C/C++ code*
+- [autopledge-insert](https://github.com/baconator/autopledge-insert) C - *Automatically inserts pledge(2) calls into C/C++ code*
+- [ksql](https://kristaps.bsd.lv/ksql/) C - *wrapper for SQLite that adds pledge(2) sandboxing*
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
 - [hs-pledge](https://github.com/oherrala/hs-pledge) Haskell
