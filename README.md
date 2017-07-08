@@ -20,7 +20,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [Openbsduser-haskell](http://openbsd-archive.7691.n7.nabble.com/pledge-2-binding-for-Haskell-td287889.html) Haskell
 - [pledge](https://github.com/Hashwords/pledge) Java
 - [node-pledge](https://github.com/qbit/node-pledge) Javascript
-- [lua-openbsd](https://github.com/n0la/lua-openbsd) Lua - Lua library that binds to OpenBSD specific functions
+- [lua-openbsd](https://github.com/n0la/lua-openbsd) Lua - *Lua library that binds to OpenBSD specific functions*
 - [pledge.nim](https://github.com/euantorano/pledge.nim) Nim
 - [OpenBSD-Pledge](https://github.com/afresh1/OpenBSD-Pledge)(http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/gnu/usr.bin/perl/cpan/OpenBSD-Pledge/) Perl
 - [Unix-Pledge](https://github.com/rfarr/Unix-Pledge) Perl
@@ -29,8 +29,8 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [openbsd-pledge](https://github.com/Robiathin/openbsd_pledge) Ruby
 - [ruby-pledge](https://github.com/jeremyevans/ruby-pledge) Ruby
 - [pledge-rs](https://github.com/i80and/pledge-rs) Rust
-- [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) A crossplatform sandboxing library for Rust
-- [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust (pastebin code)
+- [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) Rust - *A crossplatform sandboxing library*
+- [Pastebin-rust-pledge](http://pastebin.com/P89kV6uR) Rust - *(pastebin code)*
 - [clicken-pledge](http://wiki.call-cc.org/eggref/4/pledge) Scheme *Chicken Scheme*
 - [pledge.cs](https://github.com/NattyNarwhal/pledge.cs) .Net
 
