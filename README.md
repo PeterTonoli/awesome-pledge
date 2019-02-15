@@ -28,6 +28,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [php-pledge](https://github.com/tvlooy/php-pledge) PHP 7.x+ (unveil calls too)
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
 - [openbsd-pledge](https://github.com/Robiathin/openbsd_pledge) Ruby
+- [openshim](https://github.com/esote/openshim) Go
 - [ruby-pledge](https://github.com/jeremyevans/ruby-pledge) Ruby
 - [pledge-rs](https://github.com/i80and/pledge-rs) Rust
 - [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) Rust - *A crossplatform sandboxing library*
