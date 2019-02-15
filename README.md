@@ -9,7 +9,8 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
  - [OpenBSD pledge(2) manpage](http://man.openbsd.org/OpenBSD-current/man2/pledge.2) 
  - [pledge() - a new mitigation mechanism](http://www.openbsd.org/papers/hackfest2015-pledge/mgp00001.html): slides from Theo de Raadt's presentation in Hackfest 2015 introducing pledge(2)
    - [Pledge: A new security technology in OpenBSD](https://www.youtube.com/watch?v=F_7S1eqKsFk): video of the presentation
- - [why pledge(2) - or, how I learned to love web application sandboxing](http://www.learnbchs.org/pledge.html)
+ - [why pledge(2) - or, how I learned to love web application sandboxing](http://www.learnbchs.org/pledge.html) 
+ - [pledge-ex - examples of using pledge(2) in go/c/and Haskell)](https://github.com/neosimsim/pledge-ex)
 
 ## Libraries
 - [autopledge-insert](https://github.com/baconator/autopledge-insert) C - *Automatically inserts pledge(2) calls into C/C++ code*
