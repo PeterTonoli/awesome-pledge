@@ -25,7 +25,7 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [pledge.nim](https://github.com/euantorano/pledge.nim) Nim
 - [OpenBSD-Pledge](https://github.com/afresh1/OpenBSD-Pledge)(http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/gnu/usr.bin/perl/cpan/OpenBSD-Pledge/) Perl
 - [Unix-Pledge](https://github.com/rfarr/Unix-Pledge) Perl
-- [php-pledge](https://github.com/tvlooy/php-pledge) PHP 7.x+
+- [php-pledge](https://github.com/tvlooy/php-pledge) PHP 7.x+ (unveil calls too)
 - [py-openbsd-pledge](https://github.com/jarmani/py-openbsd-pledge) Python
 - [openbsd-pledge](https://github.com/Robiathin/openbsd_pledge) Ruby
 - [ruby-pledge](https://github.com/jeremyevans/ruby-pledge) Ruby
