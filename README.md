@@ -18,7 +18,8 @@ A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources an
 - [ksql](https://kristaps.bsd.lv/ksql/) C - *wrapper for SQLite that adds pledge(2) sandboxing*
 - [prx](https://github.com/msantos/prx) Erlang - *an Erlang library for interacting with Unix processes*
 - [extrasys](https://github.com/ylih/extrasys) Go - *Extra system calls for Go not provided by the syscall package*
-- [hs-pledge](https://github.com/oherrala/hs-pledge) Haskell
+- [pledge](https://github.com/cgohla/pledge) Haskell library described in [this talk at EuroBSDcon](https://www.youtube.com/watch?v=oO3HvRSg86Y)
+- [hs-pledge](https://github.com/oherrala/hs-pledge) older Haskell library (archived)
 - [Openbsduser-haskell](http://openbsd-archive.7691.n7.nabble.com/pledge-2-binding-for-Haskell-td287889.html) Haskell
 - [pledge](https://github.com/Hashwords/pledge) Java
 - [node-pledge](https://github.com/qbit/node-pledge) Javascript
